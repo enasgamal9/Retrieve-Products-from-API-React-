@@ -1,0 +1,30 @@
+.homeStyle {
+    height: 600px;
+    background-image: url('https://wpbingosite.com/wordpress/dimita/wp-content/uploads/2020/01/img1.png');
+    background-repeat: no-repeat;
+    background-position-x: 80%;
+    background-color: #1B1B1B;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    padding-left: 100px;
+  }
+.homeStyle>h1{
+    color: white;
+    font-size: 70px;
+    font-weight: bolder;
+}
+.homeStyle>h5{
+    color: white;
+}
+.link{
+    font-weight: bold;
+    color: #DA2F20;
+    text-decoration: none;
+    font-size: large;
+}
+
+.link:hover{
+    color: rgb(250, 171, 171);
+}

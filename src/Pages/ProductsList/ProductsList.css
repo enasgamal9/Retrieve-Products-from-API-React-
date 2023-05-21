@@ -1,0 +1,28 @@
+.card {
+  height: 100%;
+  border: none;
+  border-radius: 0;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+
+.card-img-top {
+  height: 225px;
+  object-fit: cover;
+}
+
+.card-text {
+  min-height: calc(1.2em * 5);
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.btn-outline-secondary {
+  color: #6c757d;
+  border-color: #6c757d;
+}
+
+.btn-outline-secondary:hover {
+  background-color: #6c757d;
+  color: white;
+  border-color: #6c757d;
+}

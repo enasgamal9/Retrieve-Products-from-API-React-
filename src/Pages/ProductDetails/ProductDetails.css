@@ -1,0 +1,50 @@
+.product-image {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    margin-bottom: 20px;
+  }
+
+  .rowClass{
+    width: 600px;
+    margin: auto !important;
+  }
+  
+  .title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .description {
+    margin-bottom: 10px;
+    width: 500px;
+    margin: 0 auto;
+  }
+  
+  .price {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  
+  .col-sm-4 {
+    margin-bottom: 20px;
+  }
+  
+  .col-sm-4 img {
+    width: 100%;
+    max-width: 180px;
+    height: auto;
+    margin-top: 20px;
+  }
+
+  .col-sm-4 img:hover {
+    transform: scale(1.1);
+  }
+
+.section{
+    text-align: center;
+    margin-top: 30px;
+}
